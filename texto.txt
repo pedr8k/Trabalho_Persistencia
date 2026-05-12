@@ -1,0 +1,3 @@
+Esta é a primeira frase do meu arquivo.
+O Python facilita muito a manipulação de arquivos.
+Persistência de dados é um conceito fundamental para desenvolvedores.
